@@ -1,0 +1,7 @@
+name: DiscordSRV-LinkChannel
+version: 2.0
+main: com.gelevla.discordsrvlinkchannel.DiscordSRVLinkChannel
+api-version: 1.18
+depend: [DiscordSRV]
+author: GeleVla
+description: A DiscordSRV addon allowing linking via a Discord channel.

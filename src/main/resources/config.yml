@@ -1,0 +1,7 @@
+# DiscordSRV-LinkChannel Configuration
+
+# Discord channel ID where linking will be processed
+LinkingDiscordChannel: "YOUR_DISCORD_CHANNEL_ID_HERE"
+
+# Whether to automatically remove messages after 10 seconds
+RemoveMessages: true
