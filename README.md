@@ -1,5 +1,3 @@
-# DiscordSRV-LinkChannel-updated
-
 # DiscordSRV LinkChannel (Updated) / DiscordSRV LinkChannel（更新版）
 
 ## English
